@@ -4,10 +4,10 @@ Sales performance analysis using **MySQL** and **Power BI** to uncover revenue t
 
 ##  Tech Stack
 
-MySQL - Data storage & querying 
-Power BI Desktop - Visualization
-Power Query - Data transformation
-DAX - Calculated measures
+MySQL - Data storage & querying <br> 
+Power BI Desktop - Visualization <br>
+Power Query - Data transformation <br>
+DAX - Calculated measures <br>
 
 ## Data Analysis Process
 
